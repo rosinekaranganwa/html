@@ -12,6 +12,13 @@ body{
 
 }
 
+.container{
+    width: 800px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+}
+
 .main-header{
     background-color: #f7f7f7;
     /* padding: 20px;
